@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
+
+body {
+    background-color: rgb(190, 188, 188);
+    overflow-x: hidden;
+}
+
+
+a {
+    font-family: 'Merriweather', serif;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 50px;
+    padding-left: 50px;
+    font-weight: bolder;
+    
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    margin-left: 200px;
+    margin-top: 50px;
+    padding-left: 50px;
+    font-weight: bolder;
+    
+}
+h2 {
+    font-family: 'Roboto Slab', serif;
+    margin-right: 900px;
+    margin-left: 100px;
+    font-weight: 50px;
+    text-align: center;
+    border: 10px solid white;
+    background-color: white;
+    font-size: larger;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: 'Roboto Slab', serif;
+    margin-right: 100px;
+    margin-left: 900px;
+    font-weight: 50px;
+    text-align: center;
+    border: 10px solid white;
+    background-color: white;
+    margin-top: -700px;
+    line-height: 1.5;
+    border: 10px solid white;
+}
+
+h4 {
+    border: white;
+    text-align: center;
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Roboto Slab', serif;
+    border: 10px solid white;
+}
+
+h6 {
+    border: rgb(167, 0, 0);
+    background-color: rgb(167, 0, 0);
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 170px;
+    column-span: 100px;
+    margin-bottom: 50px;
+}
+
+
+
+div {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img {
+    float: right;
+    margin-right: 100px;
+    margin-top: -370px;
+    text-align: center;
+    position: relative;
+}
+
+hr.rounded {
+    border-top: 5px solid white;
+    border-radius: 3px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
+footer {
+    background-color: rgb(167, 0, 0);
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 170px;
+    margin-bottom: -50px;
+    border: 10px solid rgb(167, 0, 0);
+}
+
+a img {
+    display: block;
+    margin-top: 60px;
+    text-align: left;
+    position: relative;
+    overflow: auto;
+    float: center;
+    padding-left: 25px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+}
+
